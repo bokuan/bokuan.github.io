@@ -11,12 +11,19 @@ layout: homepage
 
 I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal Institute of Technology </a>majored in transport and geoinformation techonology. I am also <a href="https://www.kth.se/en/studies/master/transport-and-geoinformation-technology/students/bokuan-1.1268606" target="_blank">KTH International Student Ambassador</a> and master thesis student at <a href="https://www.volvotrucks.com/en-en/" target="_blank">Volvo Trucks</a>. My interest involves Deep Learning, MLOps, Reinforcement Learning and transport simulation. 
 
-**From:** Beijing<span class="fi fi-cn"></span>&nbsp;&nbsp; **Base:** Stockholm<span class="fi fi-se"></span>&nbsp;&nbsp; **Also in:** Gothenburg<span class="fi fi-se"></span>
+**From:** Beijing <span class="fi fi-cn"></span>&nbsp;&nbsp; **Base:** Stockholm <span class="fi fi-se"></span>&nbsp;&nbsp; **Also in:** Gothenburg <span class="fi fi-se"></span>
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
+
+## Education
+
+**KTH Royal Institute of Technology**, Stockholm, Sweden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022-2024
+MSc in Transport and Geoinformation Technology
+**University of Oxford**, Oxford, UK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
+
 
 
 {% include_relative _includes/publications.md %}
