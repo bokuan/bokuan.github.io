@@ -21,8 +21,15 @@ I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal I
 ## Education
 
 **KTH Royal Institute of Technology**, Stockholm, Sweden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022-2024
-MSc in Transport and Geoinformation Technology
-**University of Oxford**, Oxford, UK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in Transport and Geoinformation Technology
+**University of Oxford**, Oxford, UK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer school in Economic Networks
+**Technical University of Munich Asia**, Singapore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winter school in Latest Achievement in Transport Engineering
+**Sichuan University**, Chengdu, China&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-2022
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Management in Land Resource Management
+
+
 
 
 
