@@ -3,7 +3,7 @@ main:
   - title: Serverless SDSS Astronomical Object Classification
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
-    conference: <strong>Keywords</strong>: Serverless Machine Learning, MLOps, Scalable Machine Learning, Random Forest Classifier, Astronomy
+    conference: **Keywords**: Serverless Machine Learning, MLOps, Scalable Machine Learning, Random Forest Classifier, Astronomy
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/bokuan/Serverless_SDSS_Astronomical_Object_Classification
     # bibtex: https://bib.yliu.me/MICCAI23.txt
