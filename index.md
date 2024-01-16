@@ -38,5 +38,5 @@ I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal I
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Outside work
-- I am also an amateur Peking Opera actor. In 2019, I won a prize in the National College Student's Peking Opera Contest. I worked as the president of Peking Opera Association of Sichuan University from 2019 to 2021, where I accumulated plenty of experience in stage performance management.<br>
-- I am the "mom" of my four cats: Huihui, Shunshun, Dylan and Piggy.
+- I am also an amateur Peking Opera actor. In 2019, I won an award in the National College Student's Peking Opera Contest. I worked as the president of Peking Opera Association of Sichuan University from 2019 to 2021 and accumulated rich experience in stage performance management.<br>
+- I am "mom" of my four cats: Huihui, Shunshun, Dylan and Piggy.
