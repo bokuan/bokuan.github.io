@@ -13,18 +13,12 @@ I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal I
 
 **From:** Beijing <span class="fi fi-cn"></span>&nbsp;&nbsp; **Base:** Stockholm <span class="fi fi-se"></span>&nbsp;&nbsp; **Also in:** Gothenburg <span class="fi fi-se"></span>
 
-## Skills
-- **Languages**: Python, C/C++, PostgreSQL, HTML CSS JavaScript
-- **Frameworks**: Pytorch, TensorFlow, Scikit-learn, OpenCV
-- **Tools**: ArcGIS, SPSS, QGIS, GEE
-- **Speaking languages**: Mandarin, English, Swedish(fundamental)
-
 
 ## Education
 
 - **KTH Royal Institute of Technology**, Stockholm, Sweden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022-2024
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in Transport and Geoinformation Technology<br>
-- **University of Oxford**, Oxford, UK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
+- **University of Oxford**, Oxford, UK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer school in Economic Networks<br>
 - **Technical University of Munich Asia**, Singapore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winter school in Latest Achievement in Transport Engineering<br>
@@ -36,6 +30,13 @@ I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal I
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Skills
+- **Languages**: Python, C/C++, PostgreSQL, HTML CSS JavaScript
+- **Frameworks**: Pytorch, TensorFlow, Scikit-learn, OpenCV
+- **Tools**: ArcGIS, SPSS, QGIS, GEE
+- **Speaking languages**: Mandarin, English, Swedish(fundamental)
+
 
 ## Outside work
 - I am also an amateur Peking Opera actor. In 2019, I won an award in the National College Student's Peking Opera Contest. I worked as the president of Peking Opera Association of Sichuan University from 2019 to 2021 and accumulated rich experience in stage performance management.<br>
