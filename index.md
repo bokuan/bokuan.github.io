@@ -9,19 +9,26 @@ layout: homepage
 
 ## About Me
 
-I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal Institute of Technology </a>majored in Transport and Geoinformation Techonology. I am also working <a href="https://www.kth.se/en/studies/master/transport-and-geoinformation-technology/students/bokuan-1.1268606" target="_blank">KTH International Student Ambassador</a> and master thesis student at <a href="https://www.volvotrucks.com/en-en/" target="_blank">Volvo Trucks</a>. My interest involves Deep Learning, MLOps, Reinforcement Learning and transport simulation. 
+I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal Institute of Technology </a>majored in Transport and Geoinformation Techonology. I am also working <a href="https://www.kth.se/en/studies/master/transport-and-geoinformation-technology/students/bokuan-1.1268606" target="_blank">KTH International Student Ambassador</a> and master thesis student at <a href="https://www.volvotrucks.com/en-en/" target="_blank">Volvo Trucks</a>. I am commited to promoting the application of AI in transport science and the realization of intelligent transport. My interest involves Deep learning, Computer vision, MLOps, Reinforcement learning and Transport simulation. 
 
 **From:** Beijing <span class="fi fi-cn"></span>&nbsp;&nbsp; **Base:** Stockholm <span class="fi fi-se"></span>&nbsp;&nbsp; **Also in:** Gothenburg <span class="fi fi-se"></span>
+
+## Skills
+- **Languages**: Python, C/C++, PostgreSQL, HTML CSS JavaScript
+- **Frameworks**: Pytorch, TensorFlow, Scikit-learn, OpenCV
+- **Tools**: ArcGIS, SPSS, QGIS, GEE
+- **Speaking languages**: Mandarin, English, Swedish(fundamental)
+
 
 ## Education
 
 - **KTH Royal Institute of Technology**, Stockholm, Sweden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022-2024
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MSc in Transport and Geoinformation Technology<br>
-- **University of Oxford**, Oxford, UK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
+- **University of Oxford**, Oxford, UK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer school in Economic Networks<br>
 - **Technical University of Munich Asia**, Singapore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winter school in Latest Achievement in Transport Engineering<br>
-- **Sichuan University**, Chengdu, China&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-2022
+- **Sichuan University**, Chengdu, China&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2018-2022
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Management in Land Resource Management
 
 
@@ -29,3 +36,7 @@ I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal I
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Outside work
+- I am also an amateur Peking Opera actor. In 2019, I won a prize in the National College Student's Peking Opera Contest. I worked as the president of Peking Opera Association of Sichuan University from 2019 to 2021, where I accumulated plenty of experience in stage performance management.<br>
+- I am the "mom" of my four cats: Huihui, Shunshun, Dylan and Piggy.

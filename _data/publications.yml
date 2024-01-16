@@ -4,7 +4,7 @@ main:
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
     conference: |
-      <strong>Keywords</strong>: Serverless Machine Learning, MLOps, Scalable Machine Learning, Random Forest Classifier, Astronomy
+      <strong>Keywords</strong>: Serverless Machine Learning, MLOps, Scalable Machine Learning, Random Forest Classifier, Astronomical Spectroscopy
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/bokuan/Serverless_SDSS_Astronomical_Object_Classification
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -16,7 +16,7 @@ main:
     # authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     # conference_short: CVPR
     conference: |
-      <strong>Keywords</strong>: Serverless Machine Learning, MLOps, Scalable Machine Learning, Random Forest Classifier, Astronomy
+      <strong>Keywords</strong>: Web GIS, Front-end, Openlayers, HTML CSS JavaScript
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     app: http://130.237.64.7:3014/kth/en
     code: https://github.com/bokuan/Adaptive_Building_Internal_Map
