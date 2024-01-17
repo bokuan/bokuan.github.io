@@ -1,5 +1,17 @@
 main:
 
+  - title: Urban Green Detection
+    # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    # conference_short: MICCAI
+    conference: |
+      <strong>Keywords</strong>: Semantic segmentation, Remote sensing, Deep learning, Computer vision, U-Net, Senitinel-2, Sustainability
+    # pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/bokuan/Urban_Green_Detection
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    # app: https://huggingface.co/spaces/bokuan/SDSS_star_classificiation
+    image: ./assets/img/project0.png
+    # notes: Early Accept
+
   - title: Serverless SDSS Astronomical Object Classification
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
