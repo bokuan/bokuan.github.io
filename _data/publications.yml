@@ -18,7 +18,7 @@ main:
     conference: |
       <strong>Keywords</strong>: Serverless Machine Learning, MLOps, Scalable Machine Learning, Random Forest Classifier, Astronomical Spectroscopy
     # pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/bokuan/Serverless_SDSS_Astronomical_Object_Classification
+    code: https://huggingface.co/spaces/bokuan/SDSS_Astronomical_Object_Classification
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     app: https://huggingface.co/spaces/bokuan/SDSS_star_classificiation
     image: ./assets/img/project1.png
