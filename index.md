@@ -9,7 +9,7 @@ layout: homepage
 
 ## About Me
 
-I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal Institute of Technology </a>majored in Transport and Geoinformation Techonology. I am also working as <a href="https://www.kth.se/en/studies/master/transport-and-geoinformation-technology/students/bokuan-1.1268606" target="_blank">KTH International Student Ambassador</a> and master thesis student at <a href="https://www.volvogroup.com/en/" target="_blank">Volvo Group</a>. <br><br>I am commited to promoting the application of AI in transport science and the realization of intelligent transport, aiming to enhance transport's sustainability and resilience to climate change. <br><br>My interest involves Deep learning, Computer vision, MLOps, Reinforcement learning and Transport simulation. 
+I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal Institute of Technology </a>majored in Transport and Geoinformation Techonology. I am also working as <a href="https://www.kth.se/en/studies/master/transport-and-geoinformation-technology/students/bokuan-1.1268606" target="_blank">KTH International Student Ambassador</a> and master thesis student at <a href="https://www.volvogroup.com/en/" target="_blank">Volvo Group</a>. <br><br>I am commited to promoting the application of AI in transport science and the realization of intelligent transport, aiming to enhance transport's sustainability and resilience to climate change. <br><br>My interest involves Machine learning, Deep learning, MLOps, data mining, AD/ADAS and Transport simulation. 
 
 **From:** Beijing <span class="fi fi-cn"></span>&nbsp;&nbsp; **Base:** Stockholm <span class="fi fi-se"></span>&nbsp;&nbsp; **Also in:** Gothenburg <span class="fi fi-se"></span>
 
@@ -34,7 +34,7 @@ I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal I
 
 ## Skills
 - **Languages**: Python, C/C++, PostgreSQL, HTML CSS JavaScript
-- **Frameworks**: Pytorch, TensorFlow, Scikit-learn, OpenCV
+- **Frameworks**: Pytorch, TensorFlow, Scikit-learn, PySpark, OpenCV
 - **Tools**: ArcGIS, SPSS, QGIS, GEE
 - **Speaking languages**: Mandarin, English, Swedish(fundamental)
 
