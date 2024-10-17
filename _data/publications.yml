@@ -1,6 +1,6 @@
 main:
 
-  - title: Spatial-temporal attention based multimodal data fusion model: VRU bahavior prediction under heavy truck interaction
+  - title: "Spatial-temporal attention based multimodal data fusion model: VRU bahavior prediction under heavy truck interaction"
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
     conference: |
@@ -12,7 +12,7 @@ main:
     image: ./assets/img/project3.png
     # notes: Early Accept
 
-  - title: Urban Green Detection
+  - title: "Urban Green Detection"
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
     conference: |
@@ -24,7 +24,7 @@ main:
     image: ./assets/img/project0.png
     # notes: Early Accept
 
-  - title: Serverless SDSS Astronomical Object Classification
+  - title: "Serverless SDSS Astronomical Object Classification"
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
     conference: |
