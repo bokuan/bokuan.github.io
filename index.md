@@ -28,10 +28,10 @@ I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal I
 
 ## Experience
 
-- **Volvo Group, Group Truck Technology-ADAS, Master thesis student**, Jan 2024 - Sep 2024
-- **KTH Royal Institute of Technology, International student ambassador**, Sep 2023 - Jun 2024
-- **KTH Royal Institute of Technology, New student contact person**, Mar 2023 - Apr 2023
-- **KTH Royal Institute of Technology, The Division of Geoinformatics, Teaching assistant**, Jan 2023 - Mar 2023
+- **Volvo Group, Group Truck Technology-ADAS**, master thesis student, Jan 2024 - Sep 2024
+- **KTH**, international student ambassador, Sep 2023 - Jun 2024
+- **KTH**, new student contact person, Mar 2023 - Apr 2023
+- **KTH, the Division of Geoinformatics**, teaching assistant, Jan 2023 - Mar 2023
 
 {% include_relative _includes/publications.md %}
 
