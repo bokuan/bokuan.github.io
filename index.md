@@ -11,7 +11,7 @@ layout: homepage
 
 I am a master student at <a href="https://kth.se/en" target="_blank">KTH Royal Institute of Technology </a>majored in Transport and Geoinformation Techonology, specializing in the AI applications in geospatial and transportation contexts. My interest involves deep learning of spatial-temporal data, traffic modelling and prediction, and intelligent transportation/urban systems. I am particularly focused on how  AI approaches can enhance transportation safety, optimize transport system, and improve urban mobility through geospatial insights.
 
-**Life trajectory**&nbsp;&nbsp; Beijing <span class="fi fi-cn"></span>&nbsp;→&nbsp;Chengdu <span class="fi fi-cn"></span>&nbsp;→&nbsp; Stockholm <span class="fi fi-se"></span>&nbsp;→&nbsp;Gothenburg <span class="fi fi-se"></span>
+**Life trajectory**&nbsp;&nbsp; Beijing <span class="fi fi-cn"></span>&nbsp;→&nbsp;Chengdu <span class="fi fi-cn"></span>&nbsp;→&nbsp; Stockholm <span class="fi fi-se"></span>&nbsp;→&nbsp;Gothenburg <span class="fi fi-se"></span>&nbsp;→&nbsp;?
 
 
 ## Education
