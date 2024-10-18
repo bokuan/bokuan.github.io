@@ -1,6 +1,6 @@
 main:
 
-  - title: "Spatial-temporal attention based multimodal data fusion model: VRU bahavior prediction under heavy truck interaction"
+  - title: "Spatial-temporal attention based multimodal data fusion model for HGV and VRU combinational bahavior modelling"
     # authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     # conference_short: MICCAI
     conference: |
